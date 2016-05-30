@@ -1,0 +1,22 @@
+{
+  "name": "opentok-hardware-setup",
+  "homepage": "https://github.com/ejust/opentok-hardware-setup",
+  "authors": [
+    "Mik <grafmik@gmail.com>"
+  ],
+  "description": "Bower module for the opentok hardware setup library",
+  "main": "js/opentok-hardware-setup.js",
+  "keywords": [
+    "opentok",
+    "hardware",
+    "setup"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
